@@ -1,4 +1,4 @@
 # git-practice
 First try
-Hello Git
+Hello Git from main
 Branch editing test
